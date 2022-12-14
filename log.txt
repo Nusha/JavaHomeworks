@@ -1,0 +1,60 @@
+дек. 14, 2022 8:04:37 PM hw2_2 main
+INFO: Program started
+дек. 14, 2022 8:04:42 PM hw2_2 main
+INFO: User inputted first number: 10.0
+дек. 14, 2022 8:04:46 PM hw2_2 main
+INFO: User inputted second number: 5.0
+дек. 14, 2022 8:04:46 PM hw2_2 main
+INFO: User chose addition 10.0 and 5.0
+дек. 14, 2022 8:04:46 PM hw2_2 main
+INFO: The result is: 15.0
+дек. 14, 2022 8:05:01 PM hw2_2 main
+INFO: User inputted first number: 10.0
+дек. 14, 2022 8:05:06 PM hw2_2 main
+INFO: User inputted second number: 5.0
+дек. 14, 2022 8:05:06 PM hw2_2 main
+INFO: User chose subtraction 10.0 and 5.0
+дек. 14, 2022 8:05:06 PM hw2_2 main
+INFO: The result is: 5.0
+дек. 14, 2022 8:05:16 PM hw2_2 main
+INFO: User inputted first number: 10.0
+дек. 14, 2022 8:05:20 PM hw2_2 main
+INFO: User inputted second number: 5.0
+дек. 14, 2022 8:05:20 PM hw2_2 main
+INFO: User chose multiplication 10.0 and 5.0
+дек. 14, 2022 8:05:20 PM hw2_2 main
+INFO: The result is: 50.0
+дек. 14, 2022 8:05:32 PM hw2_2 main
+INFO: User inputted first number: 10.0
+дек. 14, 2022 8:05:37 PM hw2_2 main
+INFO: User inputted second number: 5.0
+дек. 14, 2022 8:05:37 PM hw2_2 main
+INFO: User chose division 10.0 and 5.0
+дек. 14, 2022 8:05:37 PM hw2_2 main
+INFO: The result is: 2.0
+дек. 14, 2022 8:05:47 PM hw2_2 main
+INFO: User inputted first number: 16.0
+дек. 14, 2022 8:05:51 PM hw2_2 main
+INFO: User chose to get root from: 16.0
+дек. 14, 2022 8:05:51 PM hw2_2 main
+INFO: The result is: 4.0
+дек. 14, 2022 8:06:05 PM hw2_2 main
+INFO: User inputted first number: 5.0
+дек. 14, 2022 8:06:10 PM hw2_2 main
+INFO: User inputted second number: 2.0
+дек. 14, 2022 8:06:10 PM hw2_2 main
+INFO: User chose to take 5.0 to 2.0 power.
+дек. 14, 2022 8:06:10 PM hw2_2 main
+INFO: The result is: 25.0
+дек. 14, 2022 8:06:17 PM hw2_2 main
+WARNING: Error. User input is incorrect: only doubles is available.
+дек. 14, 2022 8:06:21 PM hw2_2 main
+INFO: User inputted first number: 1.0
+дек. 14, 2022 8:06:32 PM hw2_2 main
+INFO: User inputted second number: 0.0
+дек. 14, 2022 8:06:32 PM hw2_2 main
+INFO: User chose division 1.0 and 0.0
+дек. 14, 2022 8:06:32 PM hw2_2 main
+WARNING: Second operand = 0.0 can not divide by zero.
+дек. 14, 2022 8:06:41 PM hw2_2 main
+INFO: User chose to finish program 'n' pressed. Program is finished.
