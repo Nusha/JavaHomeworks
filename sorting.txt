@@ -1,0 +1,38 @@
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Program started
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Random generated array:[0, 19, 4, 12, 2, 4, 19, 5, 8, 19, 17]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 1 Array looks like: [0, 4, 19, 12, 2, 4, 19, 5, 8, 19, 17]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 2 Array looks like: [0, 4, 12, 19, 2, 4, 19, 5, 8, 19, 17]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 3 Array looks like: [0, 4, 12, 2, 19, 4, 19, 5, 8, 19, 17]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 4 Array looks like: [0, 4, 12, 2, 4, 19, 19, 5, 8, 19, 17]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 5 Array looks like: [0, 4, 12, 2, 4, 19, 5, 19, 8, 19, 17]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 6 Array looks like: [0, 4, 12, 2, 4, 19, 5, 8, 19, 19, 17]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 7 Array looks like: [0, 4, 12, 2, 4, 19, 5, 8, 19, 17, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 8 Array looks like: [0, 4, 2, 12, 4, 19, 5, 8, 19, 17, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 9 Array looks like: [0, 4, 2, 4, 12, 19, 5, 8, 19, 17, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 10 Array looks like: [0, 4, 2, 4, 12, 5, 19, 8, 19, 17, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 11 Array looks like: [0, 4, 2, 4, 12, 5, 8, 19, 19, 17, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 12 Array looks like: [0, 4, 2, 4, 12, 5, 8, 19, 17, 19, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 13 Array looks like: [0, 2, 4, 4, 12, 5, 8, 19, 17, 19, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 14 Array looks like: [0, 2, 4, 4, 5, 12, 8, 19, 17, 19, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 15 Array looks like: [0, 2, 4, 4, 5, 8, 12, 19, 17, 19, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Iteration # 16 Array looks like: [0, 2, 4, 4, 5, 8, 12, 17, 19, 19, 19]
+дек. 14, 2022 9:31:57 PM hw2_1 main
+INFO: Program finished.
