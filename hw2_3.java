@@ -30,7 +30,7 @@ public class hw2_3 {
             disciplines.add(arr[i+2]);
         }
         for (int i = 0; i < surnames.size(); i++) {
-            StringBuilder sb = new StringBuilder(tmplt.get(0)+" "+surnames.get(i)+" "+tmplt.get(1)+" "+grades.get(i)+" "+tmplt.get(2)+" "+disciplines.get(i)+".");
+            String sb = new String(tmplt.get(0)+" "+surnames.get(i)+" "+tmplt.get(1)+" "+grades.get(i)+" "+tmplt.get(2)+" "+disciplines.get(i)+".");
             System.out.println(sb);
         }
         }
