@@ -90,6 +90,7 @@ public class Homework_6_Main {
                     System.out.println("Quiting");
                     in.close();
                 }
+                default -> System.out.println("Please choose correct option.");
             }
         }
     }
